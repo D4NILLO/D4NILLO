@@ -3,8 +3,8 @@
 Sou Danillo Santos, formado em Análise e Desenvolvimento de Sistemas e atualmente professor e coordenador do curso técnico de Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimento e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas. Fique à vontade para me encontrar nas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Higor%20Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-bernardes/)](https://www.linkedin.com/in/higor-bernardes/)
-[![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
-[![Email Badge](https://img.shields.io/badge/-bernardeshigor52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardeshigor52@gmail.com)](mailto:bernardeshigor52@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@danillo_sn457-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/danillo_sn457?igsh=MTNsZHZ6N3JyMmUzeQ==)
+[![Email Badge](https://img.shields.io/badge/-bernardeshigor52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardeshigor52@gmail.com)](mailto:danillo.santos.sn@gmail.com)
 
 ---
 
